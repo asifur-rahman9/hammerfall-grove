@@ -1,4 +1,4 @@
-# whack-a-mole-cpp
+# 3D Rendering Engine with Multi-Light Shadow Mapping
 A C++ OpenGL project for COMP371 that renders a target catching game with a hammer and target cube. Project was done on MacOS
 
 ## Features
