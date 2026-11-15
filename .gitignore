@@ -1,5 +1,14 @@
-main.dSYM/
-.DS_Store
+# Build output
+build/
+cmake-build-*/
+*.o
+*.dSYM/
+
+# Runtime files
+highscore.txt
+screenshots/
+
+# Editors / OS
 .vscode/
-
-
+.idea/
+.DS_Store
